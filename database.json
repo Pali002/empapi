@@ -1,0 +1,12 @@
+{
+    "employees": [
+        {"id": 1, "name": "Erős istván", "city": "Iklad"},
+        {"id": 2, "name": "Kerle Béla", "city": "Dány"},
+        {"id": 3, "name": "Nyomo Géza", "city": "Gyál"},
+        {"id": 4, "name": "Antal András", "city": "Balatonszemes"},
+        {"id": 5, "name": "Kiss Iván", "city": "Kecskemét"},
+        {"id": 6, "name": "Eke Márk", "city": "Domony"},
+        {"id": 7, "name": "Perle Anna", "city": "Érd"},
+        {"id": 8, "name": "Virág Szirom", "city": "Szada"}
+    ]
+}
